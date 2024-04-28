@@ -1,7 +1,7 @@
 # Roller Coaster Analysis
 
 ## Overview
-This project conducts an analysis of a roller coaster dataset obtained from Kaggle. The dataset used can be found [here](https://www.kaggle.com/datasets/sartazansari/e-commerce-sales-dataset). It covers various aspects of data manipulation, cleaning, exploration, and visualization to derive insights about roller coasters.
+This project conducts an analysis of a roller coaster dataset obtained from Kaggle. The dataset used can be found [here](https://www.kaggle.com/datasets/robikscube/rollercoaster-database). It covers various aspects of data manipulation, cleaning, exploration, and visualization to derive insights about roller coasters.
 
 ## Dataset
 The dataset contains information about roller coasters, including their names, locations, manufacturers, opening dates, speeds, heights, types, and more.
