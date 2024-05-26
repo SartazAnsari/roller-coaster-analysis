@@ -9,7 +9,7 @@ The dataset contains information about roller coasters, including their names, l
 ## Viewing the Notebook
 For better readability due to custom client display functionality, use [nbviewer](https://nbviewer.org/). This provides an improved display as GitHub's notebook viewer does not execute the code.
 
-* [HotelBookingAnalysis.ipynb](https://nbviewer.org/github/SartazAnsari/hotel-booking-analysis/blob/main/HotelBookingAnalysis.ipynb)
+* [RollerCoasterAnalysis.ipynb](https://nbviewer.org/github/SartazAnsari/roller-coaster-analysis/blob/main/RollerCoasterAnalysis.ipynb)
 
 ## Prerequisites
 * Python 3.x: Download and install from [python.org](https://www.python.org/).
