@@ -24,7 +24,7 @@ For better readability due to custom client display functionality, use [nbviewer
 
 2. **[ CHOOSE ANYONE ] Environment setup**
     * Using **Python**
-        1. If you prefer Python’s built-in virtual environment
+        1. Create a new virtual environment
             ```bash
             python -m venv roller-coaster-analysis-env
             ```
