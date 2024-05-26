@@ -22,7 +22,7 @@ For better readability due to custom client display functionality, use [nbviewer
    cd roller-coaster-analysis
    ```
 
-2. **[ Choose anyone ] Environment setup**
+2. **[ CHOOSE ANYONE ] Environment setup**
     * Using **Python**
         1. If you prefer Python’s built-in virtual environment
             ```bash
